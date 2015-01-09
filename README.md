@@ -47,7 +47,10 @@ Android 开源交流系列 QQ 群为 Android 技术**交流**群。非问答群�
 欢迎大家推荐不错的入群验证问题。  
 要求最好是不分 Andorid 领域的，Google 能找到答案而百度困难的。  
 
-以前用过的验证问题  
+目前验证问题：  
+The android official framework of network data transmitting is ?  
+
+历史验证问题（现已失效）：  
 （1）程序设计领域全球最大的问答网站是？  
 这是最早的入群验证问题，已经被用烂，百度都能出结果，并且 csdn 和知乎都有人提问答案。  
 （2）Fragment 创建完成后和 Activity 间通信方式？  
