@@ -36,12 +36,12 @@ Android 开源交流系列 QQ 群为 Android 技术**交流**群。非问答群�
 
 群号 | 号码 | 管理员
 --- |--- |---
-6 群 | [185715999](http://jq.qq.com/?_wv=1027&k=fJlrh1 "入群理由必须填写群简介问题答案") |
-5 群 | [214742675 已满](http://jq.qq.com/?_wv=1027&k=c9rXYw "入群理由必须填写群简介问题答案") |
-4 群 | [148844489 已满](http://shang.qq.com/wpa/qunwpa?idkey=5dc2f22b2f9fe3b6136f9cad29399713b118bfaa9a2330e410757362a37572bc "入群理由必须填写群简介问题答案") |
-3 群 | [63224677 已满](http://shang.qq.com/wpa/qunwpa?idkey=fb2eaf0c4b4a8c838ad15e6bdd69d901f038a50f4a77360845b9e6d7ee0ba3ee "入群理由必须填写群简介问题答案") |
-2 群 | [383537512 已满](http://shang.qq.com/wpa/qunwpa?idkey=69b7c4278fc3a33690d4847ed7f9a72b9e4feb51221265a7326cf5261ccd5862 "入群理由必须填写群简介问题答案") |
-1 群 | [377723625 已满](http://shang.qq.com/wpa/qunwpa?idkey=12ba39b0c3f5d27620ab0cb63ff80507a8a30fd743a11fad028e7742a871e0dc "入群理由必须填写群简介问题答案") |
+2 群 | [383537512 可加入](http://shang.qq.com/wpa/qunwpa?idkey=69b7c4278fc3a33690d4847ed7f9a72b9e4feb51221265a7326cf5261ccd5862 "入群理由必须填写群简介问题答案") |
+6 群 | [185715999 已满](http://jq.qq.com/?_wv=1027&k=fJlrh1 "入群理由必须填写群简介问题答案") | [Wmmeng](https://github.com/Wmmeng)
+5 群 | [214742675 已满](http://jq.qq.com/?_wv=1027&k=c9rXYw "入群理由必须填写群简介问题答案") | [lzt1226](https://github.com/lzt1226) [ccsmzh](https://github.com/ccsmzh) [nyanpassu](https://github.com/nyanpassu)
+4 群 | [148844489 已满](http://shang.qq.com/wpa/qunwpa?idkey=5dc2f22b2f9fe3b6136f9cad29399713b118bfaa9a2330e410757362a37572bc "入群理由必须填写群简介问题答案") | [pcqpcq](https://github.com/pcqpcq)
+3 群 | [63224677 已满](http://shang.qq.com/wpa/qunwpa?idkey=fb2eaf0c4b4a8c838ad15e6bdd69d901f038a50f4a77360845b9e6d7ee0ba3ee "入群理由必须填写群简介问题答案") | [zhengtao620](https://github.com/zhengtao620) [coolfile](https://github.com/coolfile) [elrondliu](https://github.com/elrondliu)
+1 群 | [377723625 已满](http://shang.qq.com/wpa/qunwpa?idkey=12ba39b0c3f5d27620ab0cb63ff80507a8a30fd743a11fad028e7742a871e0dc "入群理由必须填写群简介问题答案") | [rengwuxian](https://github.com/rengwuxian) [luozi](https://github.com/luozi)
 
 ### 7. 入群验证问题征集
 欢迎大家推荐不错的入群验证问题。  
