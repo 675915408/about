@@ -7,13 +7,11 @@ Android 开源交流 QQ 群旨在提供一个纯净的技术交流环境，互�
 
 Android 开源交流群 6 个群已满，由于精力有限，后面不会再开新群。  
 
-大家有兴趣可以关注我们`codeKK`，我们会定期分享一些不错的信息。  
+大家有兴趣可以关注我们`codeKK`，我们专注于开源项目源码解析、开源项目分享、Android 职位推荐。  
 > 我们的网站：[www.codekk.com](http://codekk.com)  
  我们的微博：[code-kk](http://weibo.com/codek2)  
  我们的微信：codekk，二维码如下：  
- [img][weixin-qrcode.png]  
-
-微博和微信会分享此次分析每一篇文章，并专注于开源项目源码解析、开源项目分享、Android 职位推荐。
+ ![img](weixin-qrcode.jpg)  
 
 ### 1. 群定位
 Android 开源交流系列 QQ 群为 Android 技术**交流**群。非问答群、非新手群。  
